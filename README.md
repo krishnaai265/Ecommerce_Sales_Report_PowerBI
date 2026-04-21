@@ -10,5 +10,5 @@
 
 
 
-!\[Sales\_Dashboard](Sales\_Dashboard\_PowerBI.png)
+![Sales_Dashboard](Sales_Dashboard_PowerBI.png)
 
